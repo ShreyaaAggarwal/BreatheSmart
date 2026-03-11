@@ -147,7 +147,7 @@ export default function App() {
     if (!city) return;
     setLoading(true);
     try {
-      const res = await fetch(`http://https://breathesmart-8il9.onrender.com/api/city?name=${city}`);
+      const res = await fetch(`https://breathesmart-8il9.onrender.com/api/city?name=${city}`);
       const json = await res.json();
       setData(json);
       setTrend(generate24hrTrend(json.aqi));
