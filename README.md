@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-success" />
-  <img src="https://img.shields.io/badge/Build-Hackathon%20Ready-blue" />
   <img src="https://img.shields.io/badge/Impact-National%20Scale-orange" />
   <img src="https://img.shields.io/badge/Response%20Time-47%20Seconds-red" />
 </p>
