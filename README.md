@@ -16,10 +16,6 @@
 
 👉 Try BreatheSmart: https://breathe-smart-ruddy.vercel.app/
 
-## 🎥 Demo Video
-
-👉 [Watch Demo](your-video-link)
-
 ---
 
 ## 🌍 Problem Statement
