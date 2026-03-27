@@ -28,7 +28,7 @@ India faces one of the world’s most severe air pollution crises, with millions
 
 BreatheSmart is an **autonomous civic AI system** that not only monitors AQI but also **predicts, responds, and enforces action in real-time (within 47 seconds)**.
 
-⚡ From detection → decision → enforcement — fully automated.
+⚡ From detection → decision → enforcement - fully automated.
 ⚡ Zero humans. Zero delay. Zero excuses.
 
 ---
@@ -53,7 +53,7 @@ BreatheSmart is an **autonomous civic AI system** that not only monitors AQI but
 * 🏭 Industrial Compliance Watchdog (repeat offenders)
 * 🚑 Smart routing (avoids high-pollution corridors)
 
-### 🤖 PollutionBot — Autonomous Governance Engine
+### 🤖 PollutionBot - Autonomous Governance Engine
 
 ```diff
 + Spike detected
