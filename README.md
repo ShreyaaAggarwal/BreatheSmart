@@ -14,7 +14,7 @@
 
 ## 🌐 Live Demo
 
-👉 [Try BreatheSmart].https://breathe-smart-ruddy.vercel.app/.
+👉 [Try BreatheSmart]: https://breathe-smart-ruddy.vercel.app/
 
 ## 🎥 Demo Video
 
